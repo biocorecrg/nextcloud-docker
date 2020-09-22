@@ -1,2 +1,4 @@
 # nextcloud-docker
-Docker recipe for Nextcloud instance behind a proxy
+
+Docker recipes and configuration for Nextcloud Apache instance behind a NGINX proxy
+
