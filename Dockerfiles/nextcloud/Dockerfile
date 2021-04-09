@@ -1,4 +1,4 @@
-FROM nextcloud:18.0.9
+FROM nextcloud:19.0.9
 
 RUN usermod -u 1000 www-data; groupmod -g 1000 www-data
 RUN chown -R www-data:www-data /var/www
